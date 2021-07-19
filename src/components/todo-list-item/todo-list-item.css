@@ -1,0 +1,17 @@
+.todo-list-item {
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.done {
+  text-decoration: line-through;
+}
+
+.important {
+  font-weight: bold;
+  font-style: italic;
+  color: blue;
+}

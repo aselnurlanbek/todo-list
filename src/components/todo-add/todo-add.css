@@ -1,0 +1,13 @@
+.todo-add {
+  margin-top: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.todo-add input {
+  width: 70%;
+}
+
+.todo-add .btn {
+  padding: 0 30px;
+}

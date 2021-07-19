@@ -1,0 +1,34 @@
+.search-panel {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+/* .search {
+  width: 80%;
+  height: 40px;
+  padding: 0px 10px;
+  font-size: 14px;
+  border-radius: 8px;
+  border: 1px solid green;
+} */
+
+.search-panel .form-control {
+  width: 50%;
+}
+
+.search-icon {
+  width: 30px;
+  margin: 5px;
+  font-size: 22px;
+  color: rgb(23, 116, 192);
+}
+
+.list-filter {
+}
+
+.list-filter button {
+  margin-left: 10px;
+}
